@@ -6,4 +6,4 @@ function Palindrom(str){var str_len =str.length;
            }}}return 'String is a Palindrom'}
 
 // Time complexity of this program must be shitting brick at the end of the last iteration
-// Rewrite!
+// Rewrite using less complexity! Take the logic of reverse or something else.
